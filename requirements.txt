@@ -8,8 +8,8 @@ Pillow
 pyrogram==1.0.7
 requests
 tgcrypto
-#youtube-dl
-git+https://github.com/prgofficial/YouTubeDL@6a1ec8da4522821dc18f9a50a69823a9479593b5#egg=YouTubeDL
+youtube-dl
+yt-dlp
 Flask==1.1.2
 gunicorn==20.1.0
 Jinja2==3.0.3
